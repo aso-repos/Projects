@@ -1,0 +1,17 @@
+<RCC>
+  <qresource>
+    <file>icons/About Qt.png</file>
+    <file>icons/About.png</file>
+    <file>icons/Close.png</file>
+    <file>icons/Copy.png</file>
+    <file>icons/Cut.png</file>
+    <file>icons/File New.png</file>
+    <file>icons/File Open.png</file>
+    <file>icons/File Save.png</file>
+    <file>icons/Help.png</file>
+    <file>icons/Paste.png</file>
+    <file>icons/Quit - Exit.png</file>
+    <file>icons/Redo.png</file>
+    <file>icons/Undo.png</file>
+  </qresource>
+</RCC>
