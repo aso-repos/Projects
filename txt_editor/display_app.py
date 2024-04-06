@@ -65,7 +65,7 @@ class MainDisplay (QMainWindow, Ui_MainDisplay):
         # Set Window Title title and icon
         
         self.setWindowTitle("ASO Text Editor")
-        self.setWindowIcon(QIcon("icons/as_logo.png"))
+        self.setWindowIcon(QIcon("C:/Users/wesse/OneDrive\Python - Projects/txt_editor/icons/as_logo.png"))
         
         # Set up the QMdiArea below mainwindow for other widgets
         
