@@ -1,4 +1,4 @@
-# <div align="center"> **ASO Text Editor** </div>
+# **ASO Text Editor**
 
 ![Header Image](https://headedforspace.com/wp-content/uploads/2024/04/textedit.png)
 
