@@ -1,4 +1,4 @@
-#Text Editor - Autumn Skies Online
+# Text Editor - Autumn Skies Online
 
 Personal Windows text editor created by Python and PySid6e6 (Qt Framework)
 
