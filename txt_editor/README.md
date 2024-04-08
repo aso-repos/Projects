@@ -1,6 +1,6 @@
 <h1 align="center">ASO Text Editor</h1>
 
-<div align ="center";>
+<div align ="center">
  <img scr="https://headedforspace.com/wp-content/uploads/2024/04/textedit.png" alt="Header Image">
 </div>
 
