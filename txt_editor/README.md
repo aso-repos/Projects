@@ -1,4 +1,4 @@
-# **ASO Text Editor**
+<h1 align="center">ASO Text Editor</h1>
 
 ![Header Image](https://headedforspace.com/wp-content/uploads/2024/04/textedit.png)
 
